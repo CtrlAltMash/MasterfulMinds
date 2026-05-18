@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MasterfulMinds
+- 👋 Hi, I’m @Mash
 - 👀 I’m interested in learning and exploring new technologies.
 - 🌱 I’m currently learning about web development and artificial intelligence.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology.
